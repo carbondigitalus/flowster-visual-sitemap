@@ -35,5 +35,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Google Auth
-google-key.json
+# Build Sprite
+/public/icon-sprite.svg
