@@ -3,14 +3,14 @@ import Head from 'next/head';
 import React from 'react';
 
 // Custom Modules
-import { Icon } from '@/components/icon';
+import { Icon } from '@/components/Icon';
 
 export default class Cards extends React.Component {
   render() {
     return (
       <>
         <Head>
-          <title>Google Salience Tool</title>
+          <title>Card Icon Options</title>
         </Head>
         <main className='main'>
           <div className='center'>
