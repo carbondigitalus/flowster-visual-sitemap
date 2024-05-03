@@ -3,7 +3,7 @@ import Head from 'next/head';
 import React from 'react';
 
 // Custom Modules
-import { Icon } from '@/components/Icon';
+import Icon from '@/components/Icon';
 
 export default class Cards extends React.Component {
   render() {

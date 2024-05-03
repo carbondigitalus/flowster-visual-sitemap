@@ -15,7 +15,7 @@ interface PageProps {
 }
 
 // Retrieve data server-side
-export const getServerSideProps: GetServerSideProps = async ({ params }) => {
+export const getServerSideProps: GetServerSideProps = async () => {
   try {
     const response = await axios({
       method: 'get',
@@ -44,7 +44,7 @@ export const getServerSideProps: GetServerSideProps = async ({ params }) => {
 };
 
 export default class Home extends React.Component<PageProps> {
-  static clientName: string = 'Voluable Voice';
+  static clientName = 'Voluable Voice';
 
   render() {
     const headerItems = this.props.cardList.pageList.find((item) => item.title === 'Header')?.children || [];
