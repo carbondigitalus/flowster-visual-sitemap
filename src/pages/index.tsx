@@ -3,7 +3,7 @@ import Head from 'next/head';
 import React from 'react';
 
 // Custom Modules
-import Icon from '@/assets/_test.svg';
+import { Icon } from '@/components/icon';
 
 interface PageProps {
   child?: any;
