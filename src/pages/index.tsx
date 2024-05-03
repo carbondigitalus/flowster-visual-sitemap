@@ -1,10 +1,12 @@
+// NPM Modules
 import axios from 'axios';
 import Head from 'next/head';
 import type { GetServerSideProps } from 'next';
 import React from 'react';
 
-import RecursiveIconCard from '@/components/RecursiveIconCard';
-import { Card } from '@/utils/card.interface';
+// Custom Modules
+import RecursiveIconCard from '../components/RecursiveIconCard';
+import { Card } from '../utils/card.interface';
 
 interface PageList {
   pageList: Card[];

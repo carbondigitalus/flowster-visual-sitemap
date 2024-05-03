@@ -5,7 +5,7 @@ interface CompProps {
   type: string;
 }
 
-export default class Icon extends React.Component<CompProps> {
+export default class IconExample extends React.Component<CompProps> {
   render() {
     return (
       <div className='card icon-card'>

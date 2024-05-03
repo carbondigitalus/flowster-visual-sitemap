@@ -1,5 +1,8 @@
+// NPM Modules
 import React from 'react';
-import { Card } from '@/utils/card.interface'; // Ensure this import is correct
+
+// Custom Modules
+import { Card } from '../utils/card.interface';
 
 interface RecursiveIconCardProps {
   card: Card;
