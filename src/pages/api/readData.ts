@@ -6,7 +6,7 @@ import { join } from 'node:path';
 import type { NextApiRequest, NextApiResponse } from 'next';
 
 // Custom Modules
-import { Card } from '@/utils/card.interface';
+import { Card } from '../../utils/card.interface';
 
 export default function handler(req: NextApiRequest, res: NextApiResponse<Card[] | { message: string }>) {
   // Handling different HTTP methods
