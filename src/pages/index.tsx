@@ -2,6 +2,9 @@
 import Head from 'next/head';
 import React from 'react';
 
+// Custom Modules
+import Icon from '@/assets/_test.svg';
+
 interface PageProps {
   child?: any;
 }
@@ -35,6 +38,7 @@ export default class Home extends React.Component<PageProps, PageState> {
               <p>type</p>
               <p>Salience:</p>
             </div>
+            <Icon />
           </div>
         </main>
       </>
