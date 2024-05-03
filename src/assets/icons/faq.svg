@@ -1,0 +1,27 @@
+      <svg
+        width="116"
+        height="72"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M19 0a1 1 0 1 0 0 2h30a1 1 0 1 0 0-2H19Z"
+          fill="currentColor"
+        ></path>
+        <path
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          d="M22 42a4 4 0 0 0-4 4v6a4 4 0 0 0 4 4h72a4 4 0 0 0 4-4v-6a4 4 0 0 0-4-4H22Zm68 4a1 1 0 0 0-1 1v1h-1a1 1 0 1 0 0 2h1v1a1 1 0 1 0 2 0v-1h1a1 1 0 1 0 0-2h-1v-1a1 1 0 0 0-1-1Zm-67 3a1 1 0 0 1 1-1h38a1 1 0 1 1 0 2H24a1 1 0 0 1-1-1ZM22 58a4 4 0 0 0-4 4v6a4 4 0 0 0 4 4h72a4 4 0 0 0 4-4v-6a4 4 0 0 0-4-4H22Zm68 4a1 1 0 0 0-1 1v1h-1a1 1 0 1 0 0 2h1v1a1 1 0 1 0 2 0v-1h1a1 1 0 1 0 0-2h-1v-1a1 1 0 0 0-1-1Zm-67 3a1 1 0 0 1 1-1h38a1 1 0 1 1 0 2H24a1 1 0 0 1-1-1Z"
+          fill="currentColor"
+        ></path>
+        <path
+          d="M18 5a1 1 0 0 1 1-1h18a1 1 0 1 1 0 2H19a1 1 0 0 1-1-1Z"
+          fill="currentColor"
+        ></path>
+        <path
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          d="M18 14a4 4 0 0 1 4-4h72a4 4 0 0 1 4 4v22a4 4 0 0 1-4 4H22a4 4 0 0 1-4-4V14Zm5 2a1 1 0 0 1 1-1h38a1 1 0 1 1 0 2H24a1 1 0 0 1-1-1Zm0 6a1 1 0 0 1 1-1h54a1 1 0 1 1 0 2H24a1 1 0 0 1-1-1Zm1 5a1 1 0 1 0 0 2h54a1 1 0 1 0 0-2H24Zm-1 7a1 1 0 0 1 1-1h22a1 1 0 1 1 0 2H24a1 1 0 0 1-1-1Zm64-18a1 1 0 0 1 1-1h4a1 1 0 1 1 0 2h-4a1 1 0 0 1-1-1Z"
+          fill="currentColor"
+        ></path>
+      </svg>

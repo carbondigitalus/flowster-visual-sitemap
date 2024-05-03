@@ -1,0 +1,21 @@
+      <svg
+        width="116"
+        height="72"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M19 0a1 1 0 1 0 0 2h22a1 1 0 1 0 0-2H19Z"
+          fill="currentColor"
+        ></path>
+        <path
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          d="M18 8a4 4 0 0 1 4-4h72a4 4 0 0 1 4 4v4a4 4 0 0 1-4 4H22a4 4 0 0 1-4-4V8Zm75.702 1.712a1 1 0 0 0-1.404-1.424L90.97 9.596l-1.268-1.249a1 1 0 0 0-1.404 1.425l1.268 1.25a2 2 0 0 0 2.807 0l1.329-1.31ZM24 9a1 1 0 1 0 0 2h38a1 1 0 1 0 0-2H24Z"
+          fill="currentColor"
+        ></path>
+        <path
+          d="M19 20a1 1 0 1 0 0 2h22a1 1 0 1 0 0-2H19ZM22 24a4 4 0 0 0-4 4v4a4 4 0 0 0 4 4h72a4 4 0 0 0 4-4v-4a4 4 0 0 0-4-4H22ZM19 40a1 1 0 1 0 0 2h22a1 1 0 1 0 0-2H19ZM22 44a4 4 0 0 0-4 4v4a4 4 0 0 0 4 4h72a4 4 0 0 0 4-4v-4a4 4 0 0 0-4-4H22ZM18 64a4 4 0 0 1 4-4h30a4 4 0 0 1 4 4v4a4 4 0 0 1-4 4H22a4 4 0 0 1-4-4v-4ZM64 60a4 4 0 0 0-4 4v4a4 4 0 0 0 4 4h30a4 4 0 0 0 4-4v-4a4 4 0 0 0-4-4H64Z"
+          fill="currentColor"
+        ></path>
+      </svg>

@@ -1,0 +1,23 @@
+      <svg
+        width="116"
+        height="72"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g
+          clip-path="url(#text_page_svg__a)"
+          fill="currentColor"
+        >
+          <path
+            d="M0 1a1 1 0 0 1 1-1h46a1 1 0 1 1 0 2H1a1 1 0 0 1-1-1ZM0 11a1 1 0 0 1 1-1h114a1 1 0 0 1 0 2H1a1 1 0 0 1-1-1ZM1 58a1 1 0 1 0 0 2h114a1 1 0 0 0 0-2H1ZM1 62a1 1 0 1 0 0 2h114a1 1 0 0 0 0-2H1ZM0 67a1 1 0 0 1 1-1h114a1 1 0 0 1 0 2H1a1 1 0 0 1-1-1ZM1 70a1 1 0 1 0 0 2h72a1 1 0 1 0 0-2H1ZM1 14a1 1 0 1 0 0 2h114a1 1 0 0 0 0-2H1ZM0 19a1 1 0 0 1 1-1h114a1 1 0 0 1 0 2H1a1 1 0 0 1-1-1ZM1 22a1 1 0 1 0 0 2h114a1 1 0 0 0 0-2H1ZM0 27a1 1 0 0 1 1-1h72a1 1 0 1 1 0 2H1a1 1 0 0 1-1-1ZM1 32a1 1 0 1 0 0 2h114a1 1 0 0 0 0-2H1ZM0 37a1 1 0 0 1 1-1h114a1 1 0 0 1 0 2H1a1 1 0 0 1-1-1ZM1 40a1 1 0 1 0 0 2h72a1 1 0 1 0 0-2H1ZM1 4a1 1 0 0 0 0 2h22a1 1 0 1 0 0-2H1ZM0 49a1 1 0 0 1 1-1h46a1 1 0 1 1 0 2H1a1 1 0 0 1-1-1ZM1 52a1 1 0 1 0 0 2h22a1 1 0 1 0 0-2H1Z"
+          ></path>
+        </g>
+        <defs>
+          <clipPath id="text_page_svg__a">
+            <path
+              fill="#fff"
+              d="M0 0h116v72H0z"
+            ></path>
+          </clipPath>
+        </defs>
+      </svg>
