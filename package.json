@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "next build",
-    "prebuild": "svg-symbol-sprite -i ./src/assets/icons -o ./public/icon-sprite.svg",
+    "build:icons": "svg-symbol-sprite -i ./src/assets/icons -o ./publicsrc/assets/icon-sprite.svg",
     "start": "next start",
     "start:dev": "next dev",
     "lint": "next lint"
