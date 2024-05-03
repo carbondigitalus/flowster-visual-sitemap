@@ -33,12 +33,7 @@ export default class Home extends React.Component<PageProps, PageState> {
           </div>
           <div className='form-wrapper'></div>
           <div className='grid'>
-            <div className={`card type-`}>
-              <h3>name</h3>
-              <p>type</p>
-              <p>Salience:</p>
-            </div>
-            <Icon />
+            <Icon type='about' />
           </div>
         </main>
       </>
