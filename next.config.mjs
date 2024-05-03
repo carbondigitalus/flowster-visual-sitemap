@@ -4,7 +4,14 @@ const nextConfig = {
   sassOptions: {
     includePaths: [`${process.cwd()}/styles`]
   },
-  reactStrictMode: true
+  reactStrictMode: true,
+  webpack(config) {
+    config.module.rules.push({
+      test: /\.svg$/,
+      use: ['@svgr/webpack']
+    });
+    return config;
+  }
 };
 
 export default nextConfig;
