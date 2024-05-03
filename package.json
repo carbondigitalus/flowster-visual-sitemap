@@ -4,11 +4,13 @@
   "private": true,
   "scripts": {
     "build": "next build",
+    "prebuild": "svg-symbol-sprite -i ./src/assets/icons -o ./public/icon-sprite.svg",
     "start": "next start",
     "start:dev": "next dev",
     "lint": "next lint"
   },
   "devDependencies": {
+    "@svgr/webpack": "^8.1.0",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
@@ -27,6 +29,7 @@
   "dependencies": {
     "next": "14.2.0",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "svg-symbol-sprite": "^1.5.0"
   }
 }
