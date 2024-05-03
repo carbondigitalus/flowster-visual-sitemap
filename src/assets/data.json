@@ -1,0 +1,85 @@
+{
+  "pageList": [
+    {
+      "title": "Header",
+      "icon": "main",
+      "children": [
+        {
+          "title": "Home",
+          "icon": "main",
+          "children": []
+        },
+        {
+          "title": "About Voluable",
+          "icon": "article-left-sidebar",
+          "children": [
+            { "title": "Case Studies", "icon": "project" },
+            { "title": "Network SLA", "icon": "bio" },
+            { "title": "Awards", "icon": "career-star" }
+          ]
+        },
+        { "title": "Contact", "icon": "contact-form" },
+        {
+          "title": "Blog",
+          "icon": "news-grid",
+          "children": [
+            { "title": "Article 1", "icon": "article" },
+            { "title": "Article 2", "icon": "article" },
+            { "title": "Article 3", "icon": "article" }
+          ]
+        },
+        {
+          "title": "Products",
+          "icon": "catalog",
+          "children": [
+            { "title": "Product 1", "icon": "item" },
+            { "title": "Product 2", "icon": "item" },
+            { "title": "Product 3", "icon": "item" }
+          ]
+        },
+        {
+          "title": "Solutions",
+          "icon": "services",
+          "children": [
+            { "title": "Solution 1", "icon": "project" },
+            { "title": "Solution 2", "icon": "project" },
+            { "title": "Solution 3", "icon": "project" }
+          ]
+        },
+        {
+          "title": "Features",
+          "icon": "features",
+          "children": [
+            { "title": "Feature 1", "icon": "page-generic" },
+            { "title": "Feature 2", "icon": "page-generic" },
+            { "title": "Feature 3", "icon": "page-generic" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Footer",
+      "icon": "footer",
+      "children": [
+        {
+          "title": "Error Pages",
+          "icon": "error",
+          "children": [
+            { "title": "404 Error", "icon": "page-404" },
+            { "title": "500 Error", "icon": "page-500" }
+          ]
+        },
+        {
+          "title": "Legal",
+          "icon": "news-list",
+          "children": [
+            { "title": "Accessibility Policy", "icon": "article" },
+            { "title": "Privacy Policy", "icon": "article" },
+            { "title": "Terms & Conditions", "icon": "article" }
+          ]
+        },
+        { "title": "Support", "icon": "page-generic" }
+      ]
+    }
+  ]
+}
