@@ -1,9 +1,7 @@
-# ENV Variables
-
-## List of Variables
+# Env Variables
 
 APP_URL
 
-## Env File Names
+## Env File Name
 
 .env.development
