@@ -6,6 +6,16 @@ Welcome to the Flowster. We help your clients see the flow of their website thro
 
 Use at your own risk. We copied all of these SVG icons from Flowmapp.
 
+## Node.js Version Manager
+
+Before you begin using the project, make sure you are using the correct Node.js version. If you are smart, then you are using the [Node Version Manager](https://github.com/nvm-sh/nvm).
+
+1. If you are using NVM, use the `nvm use` command before you start the app.
+2. If not, check `node --version` to see if your Node.js version matches what is located in `.nvmrc`.
+
+- If you match, then you can proceed.
+- If you do not match, then you need to download the matching version, or implement NVM.
+
 ## Env Variables
 
 These are the ENV variables that are used in the app. These are required for the app to work correctly.
