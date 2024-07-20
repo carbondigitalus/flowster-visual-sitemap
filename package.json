@@ -1,7 +1,7 @@
 {
   "name": "flowster-visual-sitemap",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "next build",
     "build:icons": "svg-symbol-sprite -i ./src/assets/icons -o ./publicsrc/assets/icon-sprite.svg",
