@@ -213,3 +213,7 @@ We do not typically fill in the archive singles unless we need to. So, our artic
 ## About Carbon Digital
 
 We are Veteran-Owned and operated. We have different levels of projects. From a landing page, to small-large WordPress websites, up to full stack web and mobile apps.
+
+## Initial Start Visual
+
+![](./src/assets/img/screenshot.png)
