@@ -46,8 +46,6 @@ export const getServerSideProps: GetServerSideProps = async () => {
 };
 
 export default class Home extends React.Component<PageProps> {
-  static clientName = process.env.CLIENT_NAME;
-
   render() {
     const headerItems = this.props.cardList.pageList.find((item) => item.title === 'Header')?.children || [];
     const footerItems = this.props.cardList.pageList.find((item) => item.title === 'Footer')?.children || [];
@@ -55,11 +53,11 @@ export default class Home extends React.Component<PageProps> {
     return (
       <>
         <Head>
-          <title>{Home.clientName}</title>
+          <title>{process.env.NEXT_PUBLIC_CLIENT_NAME}</title>
         </Head>
         <main className='main'>
           <div className='center'>
-            <h1>{Home.clientName} Visual Sitemap</h1>
+            <h1>{process.env.NEXT_PUBLIC_CLIENT_NAME} Visual Sitemap</h1>
           </div>
           <section className='header-section'>
             {headerItems.map((card, index) => {

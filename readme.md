@@ -22,7 +22,7 @@ These are the ENV variables that are used in the app. These are required for the
 
 ```
 APP_URL
-CLIENT_NAME
+NEXT_PUBLIC_CLIENT_NAME
 ```
 
 ### Local Setup
@@ -35,7 +35,7 @@ CLIENT_NAME
 
 ```
 APP_URL='http://localhost:3000'
-CLIENT_NAME='Wicked Tuna Fishing'
+NEXT_PUBLIC_CLIENT_NAME='Wicked Tuna Fishing'
 ```
 
 ## Local Dev
