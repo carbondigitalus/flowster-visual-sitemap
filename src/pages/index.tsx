@@ -46,7 +46,7 @@ export const getServerSideProps: GetServerSideProps = async () => {
 };
 
 export default class Home extends React.Component<PageProps> {
-  static clientName = 'Voluable Voice';
+  static clientName = process.env.CLIENT_NAME;
 
   render() {
     const headerItems = this.props.cardList.pageList.find((item) => item.title === 'Header')?.children || [];
